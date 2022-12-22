@@ -14,22 +14,24 @@
 - JQuery 3.6
 - QueryDsl 5.0
 - AJAX
+- WebSocket
+- Quartz
+- OAuth 2.0 Naver/Kakao/Google
 - KakaoMap api
 - Summernote api 
 - BootPay api
-- Gmail api 
+- Gmail api
+ 
+# 테스트 환경
+- Junit 5.0
+- Postman
+
+# Dependency
+- Gradle
 
 
 # 프로젝트에서 맡은 역할 
-- 팀장 담당 
-- 서비스 기획부터 전반적인 페이지 프론트엔드 업무수행
-- DB 설계 및 구축 
-- 프로필 찜하기 및 쪽지(돌봄 요청) 기능 구현 
-- 시터 프로필 등록 시 관리자의 파일 인증 시스템 구현 
-- 앨범 및 네이버 블로그 형식의 커뮤니티 페이지 구현 
-- 로그인 페이지 쿠키를 사용한 아이디저장, 자동로그인 기능개발
-- Open API 를 이용한 휴대폰 번호 인증 기능 구현         
-- 페이지 미디어쿼리(80%) 업무 수행  
+
 
 # ERD
 ![ERD](https://user-images.githubusercontent.com/99070762/172318063-76135102-fecb-49d5-8f19-335285ac9d20.jpg)
