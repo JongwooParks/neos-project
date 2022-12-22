@@ -1,2 +1,2 @@
-# neos-project
-spring-project
+# NEOS
+대학생 스터디 모집 커뮤니티 플랫폼
