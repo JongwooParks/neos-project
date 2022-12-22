@@ -8,6 +8,8 @@
 - JDK 11.0.15
 - Oracle (11g)
 - Jpa
+- SpringBoot 2.7.5
+- Thymeleaf
 - HTML, CSS, JS
 - JQuery 3.6
 - QueryDsl 5.0
@@ -16,8 +18,7 @@
 - Summernote api 
 - BootPay api
 - Gmail api 
-- SpringBoot 2.7.5
-- Thymeleaf
+
 
 # 프로젝트에서 맡은 역할 
 - 팀장 담당 
