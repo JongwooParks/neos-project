@@ -39,7 +39,7 @@
 - aop를 사용한 알림 db 저장
 
 # ERD
-![ERD](https://user-images.githubusercontent.com/99070762/172318063-76135102-fecb-49d5-8f19-335285ac9d20.jpg)
+![ERD]()
 
 
 
