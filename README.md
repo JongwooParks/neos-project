@@ -39,7 +39,7 @@
 - aop를 사용한 알림 db 저장
 
 # ERD
-![ERD]()
+![ERD](./NEOS.drawio.png)
 
 
 
