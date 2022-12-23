@@ -31,7 +31,12 @@
 
 
 # 프로젝트에서 맡은 역할 
-
+- OAuth2를 이용한 네이버/카카오/구글 로그인 회원가입
+- 대학교 인증을 위한 gmail api를 사용해서 이메일 인증
+- 스터디 모집 서비스 전체
+- kakaomap api를 이용한 지도 검색 서비스(모집 장소 설정)
+- interceptor에서 prehandle를 재정의하여 알림 파란점 표시
+- aop를 사용한 알림 db 저장
 
 # ERD
 ![ERD](https://user-images.githubusercontent.com/99070762/172318063-76135102-fecb-49d5-8f19-335285ac9d20.jpg)
